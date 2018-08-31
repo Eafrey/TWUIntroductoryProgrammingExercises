@@ -18,14 +18,14 @@ public class TriangleExercises {
     }
 
     private static void drwaRightTriangle(int num) {
-        for(int i=0; i<num; i++) {
-            drwaHorizontalLine(i+1);
+        for (int i = 0; i < num; i++) {
+            drwaHorizontalLine(i + 1);
         }
     }
 
     private static void drwaHorizontalLine(int count) {
         String str = "";
-        for(int i=0; i<count; i++) {
+        for (int i = 0; i < count; i++) {
             str += "*";
         }
         System.out.println(str);
@@ -33,7 +33,7 @@ public class TriangleExercises {
 
     private static void drwaVerticleLine(int count) {
         String str = "";
-        for(int i=0; i<count; i++) {
+        for (int i = 0; i < count; i++) {
             System.out.println("*");
         }
     }
