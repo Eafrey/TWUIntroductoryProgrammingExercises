@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcbd771b-ca41-410c-904b-129adeeb42f1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/twu/senchen/DiamondExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twu/senchen/DiamondExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twu/senchen/TriangleExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twu/senchen/TriangleExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/twu/senchen/FizzBuzzExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twu/senchen/FizzBuzzExercise.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DiamondExercises.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiamondExercises.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twu/senchen/DiamondExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            <state relative-caret-position="-170">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzExercise.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzzExercise.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/twu/senchen/FizzBuzzExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/com/twu/senchen/Main.java" />
         <option value="$PROJECT_DIR$/src/com/twu/senchen/TriangleExercises.java" />
         <option value="$PROJECT_DIR$/src/com/twu/senchen/DiamondExercises.java" />
+        <option value="$PROJECT_DIR$/src/com/twu/senchen/FizzBuzzExercise.java" />
       </list>
     </option>
   </component>
@@ -113,9 +117,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiamondExercises">
+  <component name="RunManager" selected="Application.FizzBuzzExercise">
     <configuration name="DiamondExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.twu.senchen.DiamondExercises" />
+      <module name="IntroductoryProgrammingExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twu.senchen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FizzBuzzExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twu.senchen.FizzBuzzExercise" />
       <module name="IntroductoryProgrammingExercises" />
       <extension name="coverage">
         <pattern>
@@ -145,9 +159,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.TriangleExercises" />
       <item itemvalue="Application.DiamondExercises" />
+      <item itemvalue="Application.FizzBuzzExercise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzzExercise" />
         <item itemvalue="Application.DiamondExercises" />
         <item itemvalue="Application.TriangleExercises" />
         <item itemvalue="Application.Main" />
@@ -179,9 +195,9 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.32969698" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -210,13 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twu/senchen/FizzBuzzExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/senchen/TriangleExercises.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -229,8 +238,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/senchen/DiamondExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="-170">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twu/senchen/FizzBuzzExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
